@@ -1,0 +1,698 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230224T100000Z
+DTEND;VALUE=DATE-TIME:20230224T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2920@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2920/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2920/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230303T100000Z
+DTEND;VALUE=DATE-TIME:20230303T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2921@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2921/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2921/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230308T100000Z
+DTEND;VALUE=DATE-TIME:20230308T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3159@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3159/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3159/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journées annuelles du GDR SciNEE: 9-10 mars 2023\, Lyon
+DTSTART;VALUE=DATE-TIME:20230309T110000Z
+DTEND;VALUE=DATE-TIME:20230310T120000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3230@lpsc-indico.in2p3.fr
+DESCRIPTION:Notre atelier annuel 2023 se tiendra les 9 et 10 mars 2023 à 
+ l'IP2I à Lyon. Au cours de ces journées nous aborderons le thème des Ma
+ tériaux Nucléaires pour le Cycle et l'Environnement. La thématique cho
+ isie pour ces journées annuelles permettra de faire un état des lieux de
+ s verrous et enjeux liés à la préparation et au comportement de matéri
+ aux d'intérêt pour le cycle du combustible dans son ensemble\, et pour l
+ 'environnement.Selon les champs applicatifs visés\, les propriétés requ
+ ises pour de tels matériaux seront décrites et les méthodes visant à l
+ eur optimisation seront abordées. Parmi les catégories de matériaux vis
+ és\, on peut citer les combustibles actuels et futurs\, les matériaux de
+  structure\, céramiques\, les matrices de confinement et les matériaux p
+ résentant des propriétés de décontamination. Une session posters perm
+ ettra également à ceux qui le souhaitent\, en particulier les doctorants
+  et post-doctorants\, de présenter leurs travaux en lien avec ces sujets.
+  Cet atelier est ouvert à tous : chercheurs\, ingénieurs\, technicien\,
+  doctorants et post-doctorants et se veut un moment privilégié pour se r
+ assembler\, échanger et s'informer.Nous vous espérons nombreux ! Les in
+ scriptions sont prolongées jusqu'au 24 février 2023 !Les doctorants et p
+ ost-doctorants du GDR peuvent demander un soutien MIAM pour participer à 
+ cet atelier (attribution en nombre limité).\n\nhttps://lpsc-indico.in2p3.
+ fr/event/3230/
+LOCATION:Lyon Amphi de l'IP2I
+URL:https://lpsc-indico.in2p3.fr/event/3230/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230310T100000Z
+DTEND;VALUE=DATE-TIME:20230310T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2922@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2922/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2922/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230313T090000Z
+DTEND;VALUE=DATE-TIME:20230313T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3236@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Robin MOLLE"Monitorage faisceau diamant pour des faisceau
+ x pulsés de haute intensité"Equipe Physique Nucléaire des Applications 
+ Médicales (PNAM) 10h30: Guillaume CHEMIN\n\nhttps://lpsc-indico.in2p3.fr
+ /event/3236/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3236/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230315T100000Z
+DTEND;VALUE=DATE-TIME:20230315T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3142@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3142/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3142/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230316T090000Z
+DTEND;VALUE=DATE-TIME:20230316T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3241@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Rémy LARUE10h30: Timothée PASCAL\n\nhttps://lpsc-indico
+ .in2p3.fr/event/3241/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3241/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK admin
+DTSTART;VALUE=DATE-TIME:20230317T090000Z
+DTEND;VALUE=DATE-TIME:20230317T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3251@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3251/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3251/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230317T100000Z
+DTEND;VALUE=DATE-TIME:20230317T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2923@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2923/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2923/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230320T090000Z
+DTEND;VALUE=DATE-TIME:20230320T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3237@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Francisco SALVADOR BARBA\n\nhttps://lpsc-indico.in2p3.fr/
+ event/3237/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3237/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230322T100000Z
+DTEND;VALUE=DATE-TIME:20230322T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3160@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3160/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3160/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230323T090000Z
+DTEND;VALUE=DATE-TIME:20230323T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3242@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Joel DAI10h30: Thomas SORNAY\n\nhttps://lpsc-indico.in2p3
+ .fr/event/3242/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3242/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230324T100000Z
+DTEND;VALUE=DATE-TIME:20230324T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2924@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2924/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2924/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230327T080000Z
+DTEND;VALUE=DATE-TIME:20230327T090000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3238@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Carolina ARATA10h30: Corentin HANSER\n\nhttps://lpsc-indi
+ co.in2p3.fr/event/3238/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3238/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230329T090000Z
+DTEND;VALUE=DATE-TIME:20230329T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3143@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3143/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3143/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230331T090000Z
+DTEND;VALUE=DATE-TIME:20230331T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2925@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2925/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2925/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaires doctorants
+DTSTART;VALUE=DATE-TIME:20230403T080000Z
+DTEND;VALUE=DATE-TIME:20230403T090000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3239@lpsc-indico.in2p3.fr
+DESCRIPTION:10h: Victor LEVRAGUE10h30: Guillaume ALBOUY\n\nhttps://lpsc-in
+ dico.in2p3.fr/event/3239/
+LOCATION:LPSC Grand amphi
+URL:https://lpsc-indico.in2p3.fr/event/3239/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230405T090000Z
+DTEND;VALUE=DATE-TIME:20230405T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3161@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3161/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3161/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20230406T080000Z
+DTEND;VALUE=DATE-TIME:20230406T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3216@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3216/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3216/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaire labo - TBA
+DTSTART;VALUE=DATE-TIME:20230406T140000Z
+DTEND;VALUE=DATE-TIME:20230406T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3253@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3253/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3253/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230407T090000Z
+DTEND;VALUE=DATE-TIME:20230407T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2926@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2926/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2926/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230412T090000Z
+DTEND;VALUE=DATE-TIME:20230412T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3144@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3144/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3144/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Séminaire labo - TBA
+DTSTART;VALUE=DATE-TIME:20230413T083000Z
+DTEND;VALUE=DATE-TIME:20230413T103000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3254@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3254/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3254/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230414T090000Z
+DTEND;VALUE=DATE-TIME:20230414T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2927@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2927/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2927/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230419T090000Z
+DTEND;VALUE=DATE-TIME:20230419T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3162@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3162/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3162/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230421T090000Z
+DTEND;VALUE=DATE-TIME:20230421T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2928@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2928/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2928/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visite de Marcella Grasso & Sébastien Incerti au LPSC
+DTSTART;VALUE=DATE-TIME:20230425T070000Z
+DTEND;VALUE=DATE-TIME:20230425T143000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3259@lpsc-indico.in2p3.fr
+DESCRIPTION:Marcella Grasso: Directrice Adjointe Scientifique IN2P3 en cha
+ rge du domaine "Physique nucléaire et applications"Sébastien Incerti : D
+ irecteur Adjoint Scientifique IN2P3 en charge du domaine "Interdisciplinai
+ re"Ordre du jour provisoire \n\nhttps://lpsc-indico.in2p3.fr/event/3259/
+LOCATION:LPSC Grande salle du conseil
+URL:https://lpsc-indico.in2p3.fr/event/3259/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230426T090000Z
+DTEND;VALUE=DATE-TIME:20230426T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3145@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3145/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3145/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230428T090000Z
+DTEND;VALUE=DATE-TIME:20230428T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2929@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2929/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2929/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230503T090000Z
+DTEND;VALUE=DATE-TIME:20230503T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3163@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3163/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3163/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20230504T080000Z
+DTEND;VALUE=DATE-TIME:20230504T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3217@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3217/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3217/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230505T090000Z
+DTEND;VALUE=DATE-TIME:20230505T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2930@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2930/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2930/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230510T090000Z
+DTEND;VALUE=DATE-TIME:20230510T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3146@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3146/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3146/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230512T090000Z
+DTEND;VALUE=DATE-TIME:20230512T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2931@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2931/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2931/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230517T090000Z
+DTEND;VALUE=DATE-TIME:20230517T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3164@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3164/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3164/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230519T090000Z
+DTEND;VALUE=DATE-TIME:20230519T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2932@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2932/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2932/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230524T090000Z
+DTEND;VALUE=DATE-TIME:20230524T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3147@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3147/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3147/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230526T090000Z
+DTEND;VALUE=DATE-TIME:20230526T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2933@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2933/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2933/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rencontres Jeunes Chercheur(e)s Energie Nucléaire & Environnement
+  du GDR SciNEE et NEEDS
+DTSTART;VALUE=DATE-TIME:20230529T100000Z
+DTEND;VALUE=DATE-TIME:20230602T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3247@lpsc-indico.in2p3.fr
+DESCRIPTION:Le GDR SciNEE* et le programme NEEDS** organisent conjointemen
+ t des journées dédiées aux doctorants et post-doctorants dont les trava
+ ux portent sur des thématiques liées à l’énergie nucléaire et son i
+ mpact sur l’environnement. Elles se dérouleront du 29 mai au 2 juin 202
+ 3 au centre Paul Langevin (CAES du CNRS) à Aussois en Savoie.Ces rencontr
+ es autour des grandes thématiques du nucléaires (systèmes nucléaires a
+ ctuels et avancés\, traitement/recyclage du combustible\, gestions des d
+ échets\, matériaux pour le nucléaire\, radionucléides dans l'environne
+ ment\, ...) se veulent un lieu d’échanges pour les jeunes chercheurs de
+  différentes disciplines réalisant leurs travaux au sein d’université
+ s ou d’entités partenaires de NEEDS\, qu’il s’agisse de laboratoire
+ s de recherche académique ou d’industries.Une partie du programme sera 
+ assurée par les doctorants et post-doctorants eux-mêmes qui seront tous 
+ sollicités pour présenter oralement leurs travaux de recherche dans un f
+ ormat de 15 minutes privilégiant la pédagogie afin de permettre au plus 
+ grand nombre d’accéder à une vue d’ensemble des recherches en cours 
+ liées à l’énergie nucléaire. Des cours-séminaires donnés par des s
+ eniors sur les grandes thématiques d’intérêt seront également propos
+ és pour compléter ce programme afin de permettre à chacun d’élargir 
+ ses connaissances sur les retombées de la recherche\, tant du point de vu
+ e de la production de connaissances académiques que pour les grands enjeu
+ x technologiques et industriels. Le format de ces journées favorisera les
+  temps d’échanges entre les participants\, dans une ambiance conviviale
+ .Afin de permettre au plus grand nombre de participer\, ces journées sont
+  sans frais d’inscriptions pour les doctorants et post-doctorants (45 pl
+ aces) dont le séjour sera totalement pris en charge par les organisateurs
+  (ne laissant à la charge de leur tutelle que leurs frais de déplacement
+ ). Une dizaine de places seront également pré-réservées pour des cherc
+ heurs seniors souhaitant participer à l'intégralité de l’école (frai
+ s de séjour à leur charge).Les PRE-INSCRIPTIONS sont ouvertes jusqu'au 2
+ 4 mars 2023.Le nombre de places étant limité\, le Comité d'Organisation
+  procédera\, si nécessaire\, à une sélection des candidatures en fonct
+ ion des profils afin d’assurer une diversité des thématiques et tutell
+ es. L'inscription définitive sera validée le 7 avril 2023. Comité d’
+ Organisation:A. Billebaud (LPSC)\, P. Blaise (CEA)\, J. Dhers (Framatome)\
+ , X. Doligez (IJCLab)\, L. Jutier (IRSN) * Sciences Nucléaires pour l'En
+ ergie et l'Environnement** ANDRA\, BRGM\, CEA\, CNRS\, EDF\, Framatome\, I
+ RSN\, Orano\n\nhttps://lpsc-indico.in2p3.fr/event/3247/
+LOCATION:Centre Paul Langevin Aussois
+URL:https://lpsc-indico.in2p3.fr/event/3247/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230531T090000Z
+DTEND;VALUE=DATE-TIME:20230531T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3165@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3165/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3165/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20230601T080000Z
+DTEND;VALUE=DATE-TIME:20230601T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3218@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3218/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3218/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Réunion DARK science
+DTSTART;VALUE=DATE-TIME:20230602T090000Z
+DTEND;VALUE=DATE-TIME:20230602T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2934@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/2934/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/2934/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230607T090000Z
+DTEND;VALUE=DATE-TIME:20230607T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3148@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3148/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3148/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rubin LSST-France\, LPSC Grenoble\, 07-09/06/2023
+DTSTART;VALUE=DATE-TIME:20230607T100000Z
+DTEND;VALUE=DATE-TIME:20230609T140000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3252@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3252/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3252/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230614T090000Z
+DTEND;VALUE=DATE-TIME:20230614T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3166@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3166/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3166/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230621T090000Z
+DTEND;VALUE=DATE-TIME:20230621T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3149@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3149/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3149/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Observing the Universe at millimetre wavelengths
+DTSTART;VALUE=DATE-TIME:20230626T060000Z
+DTEND;VALUE=DATE-TIME:20230630T160000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-2859@lpsc-indico.in2p3.fr
+DESCRIPTION: The observations of the sky at millimetre wavelengths in the
+  past years contributed to tremendous improvements in our understanding of
+  a great variety of scientific topics ranging from the star formation in t
+ he Milky Way to the measurement of cosmological parameters.The mm Universe
+  conference series has started in 2019. The two first editions were mainly
+  focused on NIKA2 although opened to the entire scientific community. Sinc
+ e then\, the series evolved\, and the name has been changed\, in order to 
+ include all observations of the Universe at mm wavelength\, at all scales 
+ from stellar to cosmological ones.  As multi-wavelength analysis is a key
+  approach to understand astrophysical processes and cosmological issues\,
+  the conferences series is of course opened to results and observations a
+ t other wavelengths.  The first edition of the mm Universe conference wa
+ s held at LPSC in Grenoble in June 2019 and the second edition was organiz
+ ed by the Department of Physics at Sapienza University in Rome and held on
+ line via Zoom due to the pandemic situation at that time.The third edition
+  will be held at LPSC in Grenoble in 2023 from June 26th to June 30th.This
+  international conference will bring together the scientific community wor
+ king on science related to millimetre observations. It includes both theor
+ etical and observational topics related to the mm Universe\, from stellar 
+ to cosmological scales. mm Cosmology (CMB & clusters)Thermal & kinetic SZ
+ Galaxy cluster physics (SZ\, X\, visible)Galaxy formation in the early Uni
+ verseNearby galaxiesGalactic star formationFrom dust to planetsmm instrume
+ ntsSimulations Registration is closed.Registration FeesRegistrations pric
+ e\, with conference dinner : 250 eurosRegistrations price\, without confer
+ ence dinner : 210 eurosConference dinner for accompanying person : 40 euro
+ sLPSC members : internal payment only. Please contact mmuniverse2023-l@lps
+ c.in2p3.fr Basic Registration (210 euros)  includes : coffee breaks\, 5 
+ lunches and one proceeding book. Financial Support mm Universe acknowled
+ ges financial support from CNRS-IN2P3. \n\nhttps://lpsc-indico.in2p3.fr/e
+ vent/2859/
+LOCATION:LPSC Grenoble
+URL:https://lpsc-indico.in2p3.fr/event/2859/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230628T090000Z
+DTEND;VALUE=DATE-TIME:20230628T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3167@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3167/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3167/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LQCDPheno school 2023
+DTSTART;VALUE=DATE-TIME:20230702T070000Z
+DTEND;VALUE=DATE-TIME:20230708T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3196@lpsc-indico.in2p3.fr
+DESCRIPTION:The aim of this school is to familiarize the participants with
+  the techniques of Lattice QCD calculations and to present some of its phe
+ nomenological applications\, among the most emblematic. The ambition of th
+ is school is to provide PhD students\, post-doctoral fellows or even young
+  researchers\, both theoreticians and experimentalists\, with the bases al
+ lowing them to better apprehend the numerous results obtained by Lattice Q
+ CD. The morning lectures will be complemented by tutorials\, and two speci
+ alized seminars will present the latest advances in the field.   Confir
+ med LecturersJérôme CharlesLuigi Del DebbioAntoine GérardinVera Gulpers
+ Maria-Paola LombardoAlberto RamosTeseo San JoseCarsten UrbachChristian Zim
+ mermanList of LecturesIntroduction to Lattice QCDHadron structureThe enigm
+ a of the muon g-2The strong coupling constantFlavor Physics for BSM search
+ es Organizing committee:Benoît Blossier\, Maxim Chernodub\, Antoine Gér
+ ardin\, Laurent Lellouch\, Mariane Mangin-Brinet\, Cédric Mezrag\, Vincen
+ t Morénas\, Savvas Zafeiropoulos \n\nhttps://lpsc-indico.in2p3.fr/event/
+ 3196/
+LOCATION:Centre Paul Langevin\, Aussois Lattice QCD and its phenomenologic
+ al applications
+URL:https://lpsc-indico.in2p3.fr/event/3196/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230705T090000Z
+DTEND;VALUE=DATE-TIME:20230705T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3150@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3150/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3150/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230712T090000Z
+DTEND;VALUE=DATE-TIME:20230712T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3168@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3168/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3168/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (tout le monde)
+DTSTART;VALUE=DATE-TIME:20230719T090000Z
+DTEND;VALUE=DATE-TIME:20230719T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3151@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3151/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3151/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmo-café (doctorants)
+DTSTART;VALUE=DATE-TIME:20230726T090000Z
+DTEND;VALUE=DATE-TIME:20230726T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3169@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3169/
+LOCATION:LPSC Salle 345
+URL:https://lpsc-indico.in2p3.fr/event/3169/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20230907T080000Z
+DTEND;VALUE=DATE-TIME:20230907T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3219@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3219/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3219/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20231005T080000Z
+DTEND;VALUE=DATE-TIME:20231005T100000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3220@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3220/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3220/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20231102T090000Z
+DTEND;VALUE=DATE-TIME:20231102T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3221@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3221/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3221/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Café du labo
+DTSTART;VALUE=DATE-TIME:20231207T090000Z
+DTEND;VALUE=DATE-TIME:20231207T110000Z
+DTSTAMP;VALUE=DATE-TIME:20230303T080749Z
+UID:indico-event-3222@lpsc-indico.in2p3.fr
+DESCRIPTION:https://lpsc-indico.in2p3.fr/event/3222/
+LOCATION:
+URL:https://lpsc-indico.in2p3.fr/event/3222/
+END:VEVENT
+END:VCALENDAR
